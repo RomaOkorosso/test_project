@@ -128,7 +128,7 @@ Also you need to add the following variables into `./app/config.Settings`
 *POSTGRES_PORT* – port, example: **15432**
 *POSTGRES_USER* is the user in the database, almost always: **postgres**
 *POSTGRES_PASSWORD* – user password, example: **postgres**
-*POSTGRES_DB* – database name: **priority2030**
+*POSTGRES_DB* – database name: **test**
 *SECRET_KEY* - secret key for generating jwt, example: *qawsedfrgtyhujikolpzsxdcfvghbnjkm*
 *ALGORITHM* - algorithm for generating jwt, example **HS256**
 *ACCESS_TOKEN_EXPIRE_MINUTES* - expire time for jwt, in minutes, ex: **30**
